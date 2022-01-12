@@ -5,9 +5,9 @@ This pcb is designed to replace voltage regulator on Mackie CR3 / CR4 as describ
 ![Render](art/cr3-power-regulator.png "render")
 
 ## BOM
-|QTY    |Part                           |Recommended part number    |
+| QTY   | Part                          | Recommended part number   |
 |-------+-------------------------------+---------------------------|
-|4      |.1uf capacitor                 |K104K20X7RK53H5G           |
-|4      |diode                          |1n4148                     |
-|1      |Voltage Regulator (positive)   |L7812ABV                   |
-|1      |Voltage Regulator (negative)   |L7912ACV                   |
+| 4     | .1uf Capacitor                | K104K20X7RK53H5G          |
+| 4     | Diode                         | 1n4148                    |
+| 1     | Voltage Regulator (positive)  | L7812ABV                  |
+| 1     | Voltage Regulator (negative)  | L7912ACV                  |
