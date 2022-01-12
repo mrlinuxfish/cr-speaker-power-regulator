@@ -1,0 +1,31 @@
+"Source:","/home/atomsk/projects/cr3-power-regulator/cr3-power-regulator.kicad_sch"
+"Date:","Wed 12 Jan 2022 03:07:03 PM MST"
+"Tool:","Eeschema 6.0.0"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","100n","Device:C_Small","Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm","~"
+"","","C2","100n","Device:C_Small","Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm","~"
+"","","C3","100n","Device:C_Small","Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm","~"
+"","","C4","100n","Device:C_Small","Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm","~"
+"","","D1","1N4148","Diode:1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"","","D2","1N4148","Diode:1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"","","D3","1N4148","Diode:1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"","","D4","1N4148","Diode:1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"","","J1","Conn_01x06_Female","Connector:Conn_01x06_Female","Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal","~"
+"","","U1","L7812","Regulator_Linear:L7812","Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal","http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf"
+"","","U2","L7912","Regulator_Linear:L7912","Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal","http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","4","C1, C2, C3, C4","100n","Device:C_Small","Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm","~"
+"2","4","D1, D2, D3, D4","1N4148","Diode:1N4148","Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal","https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+"3","1","J1","Conn_01x06_Female","Connector:Conn_01x06_Female","Connector_PinHeader_1.00mm:PinHeader_1x06_P1.00mm_Horizontal","~"
+"4","1","U1","L7812","Regulator_Linear:L7812","Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal","http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf"
+"5","1","U2","L7912","Regulator_Linear:L7912","Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Horizontal","http://www.st.com/content/ccc/resource/technical/document/datasheet/c9/16/86/41/c7/2b/45/f2/CD00000450.pdf/files/CD00000450.pdf/jcr:content/translations/en.CD00000450.pdf"
